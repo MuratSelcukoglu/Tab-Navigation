@@ -1,0 +1,6 @@
+module Pods_MenuRest {
+  umbrella header "Pods-MenuRest-umbrella.h"
+
+  export *
+  module * { export * }
+}

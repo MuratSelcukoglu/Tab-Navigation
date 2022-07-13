@@ -1,0 +1,6 @@
+module Pods_MenuRest_MenuRestTests {
+  umbrella header "Pods-MenuRest-MenuRestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
